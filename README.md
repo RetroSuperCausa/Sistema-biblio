@@ -1,2 +1,3 @@
 # Sistema-biblio
-Proyecto estudiantil de la Universidad
+Proyecto Java POO de la Universidad
+College java OOP proyect
