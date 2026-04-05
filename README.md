@@ -1,4 +1,8 @@
 # Sistema-biblio
-Proyecto Java POO de la Universidad
+Español:
 
-College java OOP proyect
+Sistema de biblioteca en Java con gestión de usuarios, libros y préstamos usando POO.
+
+Inglés:
+
+Java OOP project: Library system with user, book, and loan management.
